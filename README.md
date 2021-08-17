@@ -1,6 +1,6 @@
 # DIY Light Panel Library
 
-This is the library used to program custom made triangular light panels that when 6 are made, can be formed into a hexagon as seen [in this video](https://youtu.be/tXRSDOH08MY). That video also gives a guide on what you'll need to build it and how to make your own.
+This is the library used to program custom made triangular light panels that when 6 are made, can be formed into a hexagon as seen [in this video](https://youtu.be/h9Bk7rdjjDE). That video also gives a guide on what you'll need to build it and how to make your own.
 
 This library is split up into 3 sections:
 
